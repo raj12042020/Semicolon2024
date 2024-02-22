@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LC5bhbvGwY27K+R+4rDgikfpXSMpzazziUJ1ugfjaZbU2sO2xVWep4SBJEi5hn8vMEuL2hINE3KF3/yp22d1KA==",
+  "success": true,
+  "projectFilePath": "C:\\Semicolon\\SemicolonConsoleApp\\SemicolonConsoleApp\\SemicolonConsoleApp\\SemicolonConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\raj_rout\\.nuget\\packages\\microsoft.office.interop.excel\\15.0.4795.1001\\microsoft.office.interop.excel.15.0.4795.1001.nupkg.sha512",
+    "C:\\Users\\raj_rout\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
