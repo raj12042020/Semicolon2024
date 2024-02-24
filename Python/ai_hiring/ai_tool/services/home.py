@@ -12,6 +12,7 @@ class HomeService():
         self.llm = ChatOpenAI(
         openai_api_base="https://4veynppxjm.us-east-1.awsapprunner.com",
         model_name="gpt-35-turbo-16k",
+        temperature=0,
         openai_api_key="",
     )
         
