@@ -1,0 +1,95 @@
+D:\Divyansh\Oncology Semicolon\OncologyDataScanner\OncologyDataScanner\OncologyDataScanner\bin\Release\net6.0\appsettings.Development.json
+D:\Divyansh\Oncology Semicolon\OncologyDataScanner\OncologyDataScanner\OncologyDataScanner\bin\Release\net6.0\appsettings.json
+D:\Divyansh\Oncology Semicolon\OncologyDataScanner\OncologyDataScanner\OncologyDataScanner\bin\Release\net6.0\OncologyDataScanner.exe
+D:\Divyansh\Oncology Semicolon\OncologyDataScanner\OncologyDataScanner\OncologyDataScanner\bin\Release\net6.0\OncologyDataScanner.deps.json
+D:\Divyansh\Oncology Semicolon\OncologyDataScanner\OncologyDataScanner\OncologyDataScanner\bin\Release\net6.0\OncologyDataScanner.runtimeconfig.json
+D:\Divyansh\Oncology Semicolon\OncologyDataScanner\OncologyDataScanner\OncologyDataScanner\bin\Release\net6.0\OncologyDataScanner.dll
+D:\Divyansh\Oncology Semicolon\OncologyDataScanner\OncologyDataScanner\OncologyDataScanner\bin\Release\net6.0\OncologyDataScanner.pdb
+D:\Divyansh\Oncology Semicolon\OncologyDataScanner\OncologyDataScanner\OncologyDataScanner\bin\Release\net6.0\AWSSDK.Core.dll
+D:\Divyansh\Oncology Semicolon\OncologyDataScanner\OncologyDataScanner\OncologyDataScanner\bin\Release\net6.0\AWSSDK.SecurityToken.dll
+D:\Divyansh\Oncology Semicolon\OncologyDataScanner\OncologyDataScanner\OncologyDataScanner\bin\Release\net6.0\DnsClient.dll
+D:\Divyansh\Oncology Semicolon\OncologyDataScanner\OncologyDataScanner\OncologyDataScanner\bin\Release\net6.0\Microsoft.OpenApi.dll
+D:\Divyansh\Oncology Semicolon\OncologyDataScanner\OncologyDataScanner\OncologyDataScanner\bin\Release\net6.0\MongoDB.Bson.dll
+D:\Divyansh\Oncology Semicolon\OncologyDataScanner\OncologyDataScanner\OncologyDataScanner\bin\Release\net6.0\MongoDB.Driver.dll
+D:\Divyansh\Oncology Semicolon\OncologyDataScanner\OncologyDataScanner\OncologyDataScanner\bin\Release\net6.0\MongoDB.Driver.Core.dll
+D:\Divyansh\Oncology Semicolon\OncologyDataScanner\OncologyDataScanner\OncologyDataScanner\bin\Release\net6.0\MongoDB.Libmongocrypt.dll
+D:\Divyansh\Oncology Semicolon\OncologyDataScanner\OncologyDataScanner\OncologyDataScanner\bin\Release\net6.0\SharpCompress.dll
+D:\Divyansh\Oncology Semicolon\OncologyDataScanner\OncologyDataScanner\OncologyDataScanner\bin\Release\net6.0\Snappier.dll
+D:\Divyansh\Oncology Semicolon\OncologyDataScanner\OncologyDataScanner\OncologyDataScanner\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Divyansh\Oncology Semicolon\OncologyDataScanner\OncologyDataScanner\OncologyDataScanner\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Divyansh\Oncology Semicolon\OncologyDataScanner\OncologyDataScanner\OncologyDataScanner\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Divyansh\Oncology Semicolon\OncologyDataScanner\OncologyDataScanner\OncologyDataScanner\bin\Release\net6.0\ZstdSharp.dll
+D:\Divyansh\Oncology Semicolon\OncologyDataScanner\OncologyDataScanner\OncologyDataScanner\bin\Release\net6.0\runtimes\linux\native\libmongocrypt.so
+D:\Divyansh\Oncology Semicolon\OncologyDataScanner\OncologyDataScanner\OncologyDataScanner\bin\Release\net6.0\runtimes\osx\native\libmongocrypt.dylib
+D:\Divyansh\Oncology Semicolon\OncologyDataScanner\OncologyDataScanner\OncologyDataScanner\bin\Release\net6.0\runtimes\win\native\mongocrypt.dll
+D:\Divyansh\Oncology Semicolon\OncologyDataScanner\OncologyDataScanner\OncologyDataScanner\obj\Release\net6.0\OncologyDataScanner.csproj.AssemblyReference.cache
+D:\Divyansh\Oncology Semicolon\OncologyDataScanner\OncologyDataScanner\OncologyDataScanner\obj\Release\net6.0\OncologyDataScanner.Utility.ColumnValues.resources
+D:\Divyansh\Oncology Semicolon\OncologyDataScanner\OncologyDataScanner\OncologyDataScanner\obj\Release\net6.0\OncologyDataScanner.csproj.GenerateResource.cache
+D:\Divyansh\Oncology Semicolon\OncologyDataScanner\OncologyDataScanner\OncologyDataScanner\obj\Release\net6.0\OncologyDataScanner.GeneratedMSBuildEditorConfig.editorconfig
+D:\Divyansh\Oncology Semicolon\OncologyDataScanner\OncologyDataScanner\OncologyDataScanner\obj\Release\net6.0\OncologyDataScanner.AssemblyInfoInputs.cache
+D:\Divyansh\Oncology Semicolon\OncologyDataScanner\OncologyDataScanner\OncologyDataScanner\obj\Release\net6.0\OncologyDataScanner.AssemblyInfo.cs
+D:\Divyansh\Oncology Semicolon\OncologyDataScanner\OncologyDataScanner\OncologyDataScanner\obj\Release\net6.0\OncologyDataScanner.csproj.CoreCompileInputs.cache
+D:\Divyansh\Oncology Semicolon\OncologyDataScanner\OncologyDataScanner\OncologyDataScanner\obj\Release\net6.0\OncologyDataScanner.MvcApplicationPartsAssemblyInfo.cs
+D:\Divyansh\Oncology Semicolon\OncologyDataScanner\OncologyDataScanner\OncologyDataScanner\obj\Release\net6.0\OncologyDataScanner.MvcApplicationPartsAssemblyInfo.cache
+D:\Divyansh\Oncology Semicolon\OncologyDataScanner\OncologyDataScanner\OncologyDataScanner\obj\Release\net6.0\staticwebassets\msbuild.OncologyDataScanner.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Divyansh\Oncology Semicolon\OncologyDataScanner\OncologyDataScanner\OncologyDataScanner\obj\Release\net6.0\staticwebassets\msbuild.build.OncologyDataScanner.props
+D:\Divyansh\Oncology Semicolon\OncologyDataScanner\OncologyDataScanner\OncologyDataScanner\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.OncologyDataScanner.props
+D:\Divyansh\Oncology Semicolon\OncologyDataScanner\OncologyDataScanner\OncologyDataScanner\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.OncologyDataScanner.props
+D:\Divyansh\Oncology Semicolon\OncologyDataScanner\OncologyDataScanner\OncologyDataScanner\obj\Release\net6.0\staticwebassets.pack.json
+D:\Divyansh\Oncology Semicolon\OncologyDataScanner\OncologyDataScanner\OncologyDataScanner\obj\Release\net6.0\staticwebassets.build.json
+D:\Divyansh\Oncology Semicolon\OncologyDataScanner\OncologyDataScanner\OncologyDataScanner\obj\Release\net6.0\staticwebassets.development.json
+D:\Divyansh\Oncology Semicolon\OncologyDataScanner\OncologyDataScanner\OncologyDataScanner\obj\Release\net6.0\scopedcss\bundle\OncologyDataScanner.styles.css
+D:\Divyansh\Oncology Semicolon\OncologyDataScanner\OncologyDataScanner\OncologyDataScanner\obj\Release\net6.0\OncologyDataScanner.csproj.CopyComplete
+D:\Divyansh\Oncology Semicolon\OncologyDataScanner\OncologyDataScanner\OncologyDataScanner\obj\Release\net6.0\OncologyDataScanner.dll
+D:\Divyansh\Oncology Semicolon\OncologyDataScanner\OncologyDataScanner\OncologyDataScanner\obj\Release\net6.0\refint\OncologyDataScanner.dll
+D:\Divyansh\Oncology Semicolon\OncologyDataScanner\OncologyDataScanner\OncologyDataScanner\obj\Release\net6.0\OncologyDataScanner.pdb
+D:\Divyansh\Oncology Semicolon\OncologyDataScanner\OncologyDataScanner\OncologyDataScanner\obj\Release\net6.0\OncologyDataScanner.genruntimeconfig.cache
+D:\Divyansh\Oncology Semicolon\OncologyDataScanner\OncologyDataScanner\OncologyDataScanner\obj\Release\net6.0\ref\OncologyDataScanner.dll
+C:\Users\tanishq_maheshwari\Desktop\semicol_latest\OncologyDataScanner\OncologyDataScanner\bin\Release\net6.0\appsettings.Development.json
+C:\Users\tanishq_maheshwari\Desktop\semicol_latest\OncologyDataScanner\OncologyDataScanner\bin\Release\net6.0\appsettings.json
+C:\Users\tanishq_maheshwari\Desktop\semicol_latest\OncologyDataScanner\OncologyDataScanner\bin\Release\net6.0\OncologyDataScanner.exe
+C:\Users\tanishq_maheshwari\Desktop\semicol_latest\OncologyDataScanner\OncologyDataScanner\bin\Release\net6.0\OncologyDataScanner.deps.json
+C:\Users\tanishq_maheshwari\Desktop\semicol_latest\OncologyDataScanner\OncologyDataScanner\bin\Release\net6.0\OncologyDataScanner.runtimeconfig.json
+C:\Users\tanishq_maheshwari\Desktop\semicol_latest\OncologyDataScanner\OncologyDataScanner\bin\Release\net6.0\OncologyDataScanner.dll
+C:\Users\tanishq_maheshwari\Desktop\semicol_latest\OncologyDataScanner\OncologyDataScanner\bin\Release\net6.0\OncologyDataScanner.pdb
+C:\Users\tanishq_maheshwari\Desktop\semicol_latest\OncologyDataScanner\OncologyDataScanner\bin\Release\net6.0\AWSSDK.Core.dll
+C:\Users\tanishq_maheshwari\Desktop\semicol_latest\OncologyDataScanner\OncologyDataScanner\bin\Release\net6.0\AWSSDK.SecurityToken.dll
+C:\Users\tanishq_maheshwari\Desktop\semicol_latest\OncologyDataScanner\OncologyDataScanner\bin\Release\net6.0\DnsClient.dll
+C:\Users\tanishq_maheshwari\Desktop\semicol_latest\OncologyDataScanner\OncologyDataScanner\bin\Release\net6.0\Microsoft.OpenApi.dll
+C:\Users\tanishq_maheshwari\Desktop\semicol_latest\OncologyDataScanner\OncologyDataScanner\bin\Release\net6.0\MongoDB.Bson.dll
+C:\Users\tanishq_maheshwari\Desktop\semicol_latest\OncologyDataScanner\OncologyDataScanner\bin\Release\net6.0\MongoDB.Driver.dll
+C:\Users\tanishq_maheshwari\Desktop\semicol_latest\OncologyDataScanner\OncologyDataScanner\bin\Release\net6.0\MongoDB.Driver.Core.dll
+C:\Users\tanishq_maheshwari\Desktop\semicol_latest\OncologyDataScanner\OncologyDataScanner\bin\Release\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\tanishq_maheshwari\Desktop\semicol_latest\OncologyDataScanner\OncologyDataScanner\bin\Release\net6.0\SharpCompress.dll
+C:\Users\tanishq_maheshwari\Desktop\semicol_latest\OncologyDataScanner\OncologyDataScanner\bin\Release\net6.0\Snappier.dll
+C:\Users\tanishq_maheshwari\Desktop\semicol_latest\OncologyDataScanner\OncologyDataScanner\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\tanishq_maheshwari\Desktop\semicol_latest\OncologyDataScanner\OncologyDataScanner\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\tanishq_maheshwari\Desktop\semicol_latest\OncologyDataScanner\OncologyDataScanner\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\tanishq_maheshwari\Desktop\semicol_latest\OncologyDataScanner\OncologyDataScanner\bin\Release\net6.0\ZstdSharp.dll
+C:\Users\tanishq_maheshwari\Desktop\semicol_latest\OncologyDataScanner\OncologyDataScanner\bin\Release\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\tanishq_maheshwari\Desktop\semicol_latest\OncologyDataScanner\OncologyDataScanner\bin\Release\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\tanishq_maheshwari\Desktop\semicol_latest\OncologyDataScanner\OncologyDataScanner\bin\Release\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\tanishq_maheshwari\Desktop\semicol_latest\OncologyDataScanner\OncologyDataScanner\obj\Release\net6.0\OncologyDataScanner.csproj.AssemblyReference.cache
+C:\Users\tanishq_maheshwari\Desktop\semicol_latest\OncologyDataScanner\OncologyDataScanner\obj\Release\net6.0\OncologyDataScanner.Utility.ColumnValues.resources
+C:\Users\tanishq_maheshwari\Desktop\semicol_latest\OncologyDataScanner\OncologyDataScanner\obj\Release\net6.0\OncologyDataScanner.csproj.GenerateResource.cache
+C:\Users\tanishq_maheshwari\Desktop\semicol_latest\OncologyDataScanner\OncologyDataScanner\obj\Release\net6.0\OncologyDataScanner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tanishq_maheshwari\Desktop\semicol_latest\OncologyDataScanner\OncologyDataScanner\obj\Release\net6.0\OncologyDataScanner.AssemblyInfoInputs.cache
+C:\Users\tanishq_maheshwari\Desktop\semicol_latest\OncologyDataScanner\OncologyDataScanner\obj\Release\net6.0\OncologyDataScanner.AssemblyInfo.cs
+C:\Users\tanishq_maheshwari\Desktop\semicol_latest\OncologyDataScanner\OncologyDataScanner\obj\Release\net6.0\OncologyDataScanner.csproj.CoreCompileInputs.cache
+C:\Users\tanishq_maheshwari\Desktop\semicol_latest\OncologyDataScanner\OncologyDataScanner\obj\Release\net6.0\OncologyDataScanner.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tanishq_maheshwari\Desktop\semicol_latest\OncologyDataScanner\OncologyDataScanner\obj\Release\net6.0\OncologyDataScanner.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tanishq_maheshwari\Desktop\semicol_latest\OncologyDataScanner\OncologyDataScanner\obj\Release\net6.0\staticwebassets.build.json
+C:\Users\tanishq_maheshwari\Desktop\semicol_latest\OncologyDataScanner\OncologyDataScanner\obj\Release\net6.0\staticwebassets.development.json
+C:\Users\tanishq_maheshwari\Desktop\semicol_latest\OncologyDataScanner\OncologyDataScanner\obj\Release\net6.0\scopedcss\bundle\OncologyDataScanner.styles.css
+C:\Users\tanishq_maheshwari\Desktop\semicol_latest\OncologyDataScanner\OncologyDataScanner\obj\Release\net6.0\OncologyDataScanner.csproj.CopyComplete
+C:\Users\tanishq_maheshwari\Desktop\semicol_latest\OncologyDataScanner\OncologyDataScanner\obj\Release\net6.0\OncologyDataScanner.dll
+C:\Users\tanishq_maheshwari\Desktop\semicol_latest\OncologyDataScanner\OncologyDataScanner\obj\Release\net6.0\refint\OncologyDataScanner.dll
+C:\Users\tanishq_maheshwari\Desktop\semicol_latest\OncologyDataScanner\OncologyDataScanner\obj\Release\net6.0\OncologyDataScanner.pdb
+C:\Users\tanishq_maheshwari\Desktop\semicol_latest\OncologyDataScanner\OncologyDataScanner\obj\Release\net6.0\OncologyDataScanner.genruntimeconfig.cache
+C:\Users\tanishq_maheshwari\Desktop\semicol_latest\OncologyDataScanner\OncologyDataScanner\obj\Release\net6.0\ref\OncologyDataScanner.dll
+C:\Users\tanishq_maheshwari\Desktop\semicol_latest\OncologyDataScanner\OncologyDataScanner\bin\Release\net6.0\System.Web.Cors.dll
+C:\Users\tanishq_maheshwari\Desktop\semicol_latest\OncologyDataScanner\OncologyDataScanner\bin\Release\net6.0\System.Net.Http.Formatting.dll
+C:\Users\tanishq_maheshwari\Desktop\semicol_latest\OncologyDataScanner\OncologyDataScanner\bin\Release\net6.0\System.Web.Http.dll
+C:\Users\tanishq_maheshwari\Desktop\semicol_latest\OncologyDataScanner\OncologyDataScanner\bin\Release\net6.0\System.Web.Http.Cors.dll
+C:\Users\tanishq_maheshwari\Desktop\semicol_latest\OncologyDataScanner\OncologyDataScanner\bin\Release\net6.0\Newtonsoft.Json.dll
+C:\Users\tanishq_maheshwari\Desktop\semicol_latest\OncologyDataScanner\OncologyDataScanner\bin\Release\net6.0\Newtonsoft.Json.Bson.dll

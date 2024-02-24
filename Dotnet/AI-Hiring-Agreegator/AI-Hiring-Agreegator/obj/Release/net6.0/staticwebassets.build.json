@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mPBiONufg80eEeZdHDwuEaQuydS1hUV921JZifs6rMA=",
+  "Source": "OncologyDataScanner",
+  "BasePath": "_content/OncologyDataScanner",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

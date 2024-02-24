@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Dotnet",
+    "\\Dotnet\\CandidatesHiring",
+    "\\Dotnet\\CandidatesHiring\\CandidatesHiring",
+    "\\Dotnet\\CandidatesHiring\\CandidatesHiring\\Properties"
   ],
+  "SelectedNode": "\\Dotnet\\CandidatesHiring\\CandidatesHiring\\CandidatesHiring.sln",
   "PreviewInSolutionExplorer": false
 }
