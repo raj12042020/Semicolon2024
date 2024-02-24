@@ -2,6 +2,8 @@ from rest_framework import viewsets
 from django.shortcuts import render
 from django.http import JsonResponse
 from ai_tool.services.home import HomeService
+from ai_tool.globals import my_global_variable
+
 import json
 
 class HomeController(viewsets.ModelViewSet):
@@ -11,14 +13,12 @@ class HomeController(viewsets.ModelViewSet):
     
     def filter_skills(self, request):
         try:
-
             filter_prompt = """You will be provided with a job description , Your task is to extract below mentioned things
 TechnicalSkills : only the required one worded technical skills
-Experiance : Overall years of experiance required for the job
+MinExpYears : Overall years of experiance required for the job
 Education : Education required to be eligible for the job
-Location : Job location
-Candidate role : Expected Candidate's current role
-Candiate's np : Expected Candidate's current notice period
+PreferedLocation : Given Job location
+NoticePeriod : Expected Candidate's current notice period
 
 If any of the above mentioned things are not present in job description , then keep it empty.
 
@@ -32,11 +32,10 @@ Output must be in json format with below given keys
   Skill2,
   Skill3,
   ....],
-"Experiance":"..",
+"MinExpYears":"..",
 "Education":"..",
-"Location":"..",
-"Candidate role":"..",
-"Candiate's np":"..",
+"PreferedLocation":"..",
+"NoticePeriod":"..",
 
 
 
@@ -45,24 +44,20 @@ Job description -
 """
 
             job_des_str = request.body.decode('utf-8')
-            print("job_des_str - ",job_des_str)
-            result = self.service.filter_skills(filter_prompt+job_des_str)
-            print("result - ",result)
-            # print(request.body)
+            global my_global_variable
+            my_global_variable = job_des_str
+            result = self.service.filter_skills(filter_prompt+my_global_variable)
             result = json.loads(result)
-            # print(data)
             return JsonResponse(result, status=201)
             
         except Exception as e:
             return JsonResponse({"error": str(e)}, status=400) 
     
-    #method to send answers to gpt model
     def get_qa(self, request):
         try:
             user_answers_str = request.body.decode('utf-8')
             role = user_answers_str.split(",")[0]
             exp = user_answers_str.split(",")[1]
-            print("role - ",role," , exp - ",exp)
             mcqprompt = f"""
 Task: Create a quiz with 10 multiple choice question and answer
 Topic: for {role} with {exp} years experiance
@@ -108,12 +103,47 @@ Output format:"""
   ]
 }
 """
-            # input_data = request.data
-            
             result = self.service.get_qa(mcqprompt+output_format)
-            print(result)
             result = json.loads(result)
-            # print(data)
+            return JsonResponse(result, status=201)
+        except Exception as e:
+            return JsonResponse({"error": str(e)}, status=400)
+
+
+
+
+
+    def analyse_resume(self, request):
+        try:
+            resume_str = request.body.decode('utf-8')
+            global my_global_variable
+            jd = my_global_variable
+            resume_prompt = f"""Task: Your task is to act as Resume Analyser.
+Analyze the provided resume and job description to assess the candidate's suitability for the position.
+
+Instructions:
+Provide a score out of 10, indicating the degree to which the candidate's skills, qualifications, and experiences align with the requirements and preferences outlined in the job description.
+Consider factors such as relevant experience, education, skills, certifications, and any additional criteria specified in the job description.
+
+
+Additional Guidelines:
+Evaluate the candidate objectively based on the information provided in the resume and job description.
+Consider the relevance and depth of the candidate's experiences and qualifications.
+Assess the extent to which the candidate meets or exceeds the criteria outlined in the job description.
+
+Resume - {resume_str}
+Job description - {jd}
+"""
+
+            Outputformat = """
+Output Format:
+Print output in below given json format:
+{
+  "score":".."
+}"""
+
+            result = self.service.analyse_resume(resume_prompt+Outputformat)
+            result = json.loads(result)
             return JsonResponse(result, status=201)
         except Exception as e:
             return JsonResponse({"error": str(e)}, status=400)
