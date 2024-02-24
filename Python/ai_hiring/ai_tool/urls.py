@@ -9,7 +9,7 @@ router = SimpleRouter()
  
 api_routes = [
     path('filter_skills', HomeController.as_view({'post': 'filter_skills'}), name="filter_skills"),
-    path('analyse_answer', HomeController.as_view({'post': 'analyse_answer'}), name="analyse_answer")
+    path('get_qa', HomeController.as_view({'post': 'get_qa'}), name="get_qa")
 ]
  
 urlpatterns = api_routes
