@@ -15,11 +15,10 @@ class HomeController(viewsets.ModelViewSet):
         try:
             filter_prompt = """You will be provided with a job description , Your task is to extract below mentioned things
 TechnicalSkills : only the required one worded technical skills
-Experiance : Overall years of experiance required for the job
+MinExpYears : Overall years of experiance required for the job
 Education : Education required to be eligible for the job
-Location : Job location
-Candidate role : Expected Candidate's current role
-Candiate's np : Expected Candidate's current notice period
+PreferedLocation : Given Job location
+NoticePeriod : Expected Candidate's current notice period
 
 If any of the above mentioned things are not present in job description , then keep it empty.
 
@@ -33,11 +32,10 @@ Output must be in json format with below given keys
   Skill2,
   Skill3,
   ....],
-"Experiance":"..",
+"MinExpYears":"..",
 "Education":"..",
-"Location":"..",
-"Candidate role":"..",
-"Candiate's np":"..",
+"PreferedLocation":"..",
+"NoticePeriod":"..",
 
 
 
